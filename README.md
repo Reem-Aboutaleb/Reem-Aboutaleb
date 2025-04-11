@@ -57,11 +57,12 @@ Specializing in physiological signal analysis for health and emotion detection:
 
 ## 📄 Certifications
 
-![Google Certified](https://img.shields.io/badge/Google%20Advanced%20Data%20Analytics-Certified-brightgreen)
+![Google Certificate](https://img.shields.io/badge/Google%20Advanced%20Data%20Analytics%20Certificate-Completed-blue)
 
 **Google Advanced Data Analytics Certificate**  
-Completed advanced training in Python, machine learning, data wrangling, and decision-making.  
-📄 [View Certificate (PDF)](https://github.com/Reem-Aboutaleb/Reem-Aboutaleb/blob/main/certificates/Google_Advanced_Data_Analytics.pdf)
+Completed advanced training in Python, machine learning, data wrangling, and decision-making.
+
+📄 [View Certificate (PDF)](https://github.com/Reem-Aboutaleb/Reem-Aboutaleb/blob/main/docs/Google%20Advanced%20Data%20Analytics.pdf)
 
 ---
 
